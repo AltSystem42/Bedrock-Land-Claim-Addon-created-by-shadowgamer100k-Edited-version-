@@ -1,0 +1,21 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "protection:lock",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": {
+				"texture": "protection:lock"
+			},
+			"minecraft:display_name": {
+				"value": "item.protection:lock.name"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.equipment"
+			}
+		}
+	}
+}

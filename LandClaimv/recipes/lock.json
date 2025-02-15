@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lock"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " A ",
+      " B "
+    ],
+    "key": {
+      "A": {
+        "item": "protection:column",
+        "data": 0
+      },
+      "B": {
+        "item": "protection:lock_body",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "protection:lock",
+      "count": 1
+    }
+  }
+}

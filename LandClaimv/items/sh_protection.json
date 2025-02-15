@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sh:protection",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "sh:protection",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

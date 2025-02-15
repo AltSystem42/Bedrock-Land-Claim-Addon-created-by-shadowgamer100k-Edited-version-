@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lock_body"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "CAC",
+      "BBB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:obsidian",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:gold_ingot",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:gold_nugget",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "protection:lock_body",
+      "count": 1
+    }
+  }
+}

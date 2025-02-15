@@ -1,0 +1,45 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["Shadow"],
+    "generated_with": {
+      "bridge": ["2.6.0"],
+      "dash": ["0.10.8"]
+    }
+  },
+  "header": {
+    "name": "Land Claim v1.2 support 1.21.50",
+    "description": "§o- Support version : §a1.21.50\n§o- Creator Youtube : §a@shadowgamer100k\n§o- Note : §cIf you want to make review about this addon mention my channel or use my mcpdl link",
+    "min_engine_version": [1, 19, 50],
+    "uuid": "ca0aacf1-78df-45f8-b8b2-171e99fd6cf9",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "77024148-712c-4646-93d8-9bc4e27fdfbf",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "67631e16-1859-4f10-876b-b908f990b8dd",
+      "entry": "scripts/main.js",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "6aa5bbe5-00f7-4016-8e6c-0c90c9aab562",
+      "version": [1, 0, 0]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.18.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.4.0-beta"
+    }
+  ]
+}

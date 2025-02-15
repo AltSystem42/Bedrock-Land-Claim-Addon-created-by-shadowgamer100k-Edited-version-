@@ -1,0 +1,21 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:item": {
+		"description": {
+			"identifier": "protection:column",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": {
+				"texture": "protection:column"
+			},
+			"minecraft:display_name": {
+				"value": "item.protection:column.name"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.equipment"
+			}
+		}
+	}
+}
