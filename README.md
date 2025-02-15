@@ -4,3 +4,4 @@ This only contains the Behavior Pack.
 
 NO RESOURCE PACK. GO TO CREATORS YOUTUBE AND DOWNLOAD IT THROUGH THEIR LINKS TO GIVE THEM SUPPORT!
 I made add it in if I get certian complaints about their links.
+Creator Video: https://www.youtube.com/watch?v=k0GzCw3DSMQ
