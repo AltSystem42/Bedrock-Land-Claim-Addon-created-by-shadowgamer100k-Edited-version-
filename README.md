@@ -10,6 +10,7 @@ To access the admin panel do /tag @s add LandAdmin
 You can change @s to any player name to add them.
 
 Reciepes for addon:
+
 ![Column](https://github.com/user-attachments/assets/72baf912-39b7-4758-b5c4-f10923a342b4)
 ![lock_body](https://github.com/user-attachments/assets/509e2e62-43df-419b-a02c-912c56d7d76f)
 ![lock](https://github.com/user-attachments/assets/575eafac-7581-4ad6-8da9-c530d464c073)
