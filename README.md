@@ -6,7 +6,7 @@ NO RESOURCE PACK. GO TO CREATORS YOUTUBE AND DOWNLOAD IT THROUGH THEIR LINKS TO 
 I made add it in if I get certian complaints about their links.
 Creator Video: https://www.youtube.com/watch?v=k0GzCw3DSMQ
 
-To access the admin panel do /tag @s add LandAdmin
+To access the admin panel do /tag @s add LandAdmin.
 You can change @s to any player name to add them.
 
 Reciepes for addon:
